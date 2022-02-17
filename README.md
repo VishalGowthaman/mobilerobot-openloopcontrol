@@ -70,7 +70,7 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://youtube.com/shorts/huDYj3T7nf8?feature=share)]
+![](https://youtube.com/shorts/huDYj3T7nf8?feature=share)
 
 
 
